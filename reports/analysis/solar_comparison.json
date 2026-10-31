@@ -1,0 +1,22 @@
+[
+  {
+    "has_solar_panels": false,
+    "households": 96,
+    "consumption_kwh": 309745.6249,
+    "grid_consumption_kwh": 309745.6249,
+    "solar_generation_kwh": 0.0,
+    "solar_savings_bgn": 0.0,
+    "cost_bgn": 70466.4497,
+    "grid_kwh_per_household": 3226.5169
+  },
+  {
+    "has_solar_panels": true,
+    "households": 24,
+    "consumption_kwh": 95717.1591,
+    "grid_consumption_kwh": 57476.3439,
+    "solar_generation_kwh": 108113.6728,
+    "solar_savings_bgn": 9560.2038,
+    "cost_bgn": 12214.8041,
+    "grid_kwh_per_household": 2394.8477
+  }
+]

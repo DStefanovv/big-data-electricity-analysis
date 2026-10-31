@@ -1,0 +1,16 @@
+[
+  {
+    "building_type": "apartment",
+    "households": 72,
+    "grid_consumption_kwh": 194154.3785,
+    "grid_kwh_per_household": 2696.5886,
+    "cost_bgn": 44018.0819
+  },
+  {
+    "building_type": "house",
+    "households": 48,
+    "grid_consumption_kwh": 173067.5903,
+    "grid_kwh_per_household": 3605.5748,
+    "cost_bgn": 38663.1719
+  }
+]

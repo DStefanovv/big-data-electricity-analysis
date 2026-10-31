@@ -1,0 +1,230 @@
+[
+  {
+    "region": "Югозападен",
+    "records": 175200,
+    "households": 20,
+    "consumption_kwh": 64643.506,
+    "grid_consumption_kwh": 64643.506,
+    "grid_kwh_per_household": 3232.1753,
+    "solar_generation_kwh": 0.0,
+    "solar_savings_bgn": 0.0,
+    "cost_bgn": 14712.0754,
+    "solar_households": 0,
+    "average_grid_kwh_solar_household": 0.0,
+    "average_grid_kwh_non_solar_household": 3232.1753,
+    "peak": {
+      "timestamp": "2025-01-25T19:00:00",
+      "grid_consumption_kwh": 15.1588,
+      "consumption_kwh": 15.1588,
+      "cost_bgn": 3.7898
+    },
+    "peak_month": {
+      "month": 1,
+      "month_name_bg": "януари",
+      "grid_consumption_kwh": 6250.8659
+    },
+    "tariffs": {
+      "day": {
+        "records": 116800,
+        "grid_consumption_kwh": 50155.5497,
+        "cost_bgn": 12538.8894
+      },
+      "night": {
+        "records": 58400,
+        "grid_consumption_kwh": 14487.9563,
+        "cost_bgn": 2173.186
+      }
+    },
+    "task_seconds": 0.337
+  },
+  {
+    "region": "Североизточен",
+    "records": 175200,
+    "households": 20,
+    "consumption_kwh": 73771.2148,
+    "grid_consumption_kwh": 63123.9775,
+    "grid_kwh_per_household": 3156.1989,
+    "solar_generation_kwh": 28018.1119,
+    "solar_savings_bgn": 2661.8093,
+    "cost_bgn": 14105.1051,
+    "solar_households": 7,
+    "average_grid_kwh_solar_household": 2308.7681,
+    "average_grid_kwh_non_solar_household": 3612.5077,
+    "peak": {
+      "timestamp": "2025-12-21T20:00:00",
+      "grid_consumption_kwh": 19.1035,
+      "consumption_kwh": 19.1035,
+      "cost_bgn": 4.7758
+    },
+    "peak_month": {
+      "month": 1,
+      "month_name_bg": "януари",
+      "grid_consumption_kwh": 6904.9906
+    },
+    "tariffs": {
+      "day": {
+        "records": 116800,
+        "grid_consumption_kwh": 46364.9052,
+        "cost_bgn": 11591.2359
+      },
+      "night": {
+        "records": 58400,
+        "grid_consumption_kwh": 16759.0723,
+        "cost_bgn": 2513.8692
+      }
+    },
+    "task_seconds": 0.443
+  },
+  {
+    "region": "Северозападен",
+    "records": 175200,
+    "households": 20,
+    "consumption_kwh": 72620.9495,
+    "grid_consumption_kwh": 61372.8394,
+    "grid_kwh_per_household": 3068.642,
+    "solar_generation_kwh": 35229.7112,
+    "solar_savings_bgn": 2812.0275,
+    "cost_bgn": 13704.772,
+    "solar_households": 7,
+    "average_grid_kwh_solar_household": 2341.4878,
+    "average_grid_kwh_non_solar_household": 3460.1865,
+    "peak": {
+      "timestamp": "2025-01-19T21:00:00",
+      "grid_consumption_kwh": 18.1876,
+      "consumption_kwh": 18.1876,
+      "cost_bgn": 4.547
+    },
+    "peak_month": {
+      "month": 1,
+      "month_name_bg": "януари",
+      "grid_consumption_kwh": 6356.7795
+    },
+    "tariffs": {
+      "day": {
+        "records": 116800,
+        "grid_consumption_kwh": 44988.4543,
+        "cost_bgn": 11247.1278
+      },
+      "night": {
+        "records": 58400,
+        "grid_consumption_kwh": 16384.3851,
+        "cost_bgn": 2457.6442
+      }
+    },
+    "task_seconds": 0.443
+  },
+  {
+    "region": "Южен централен",
+    "records": 175200,
+    "households": 20,
+    "consumption_kwh": 67279.9639,
+    "grid_consumption_kwh": 60430.4407,
+    "grid_kwh_per_household": 3021.522,
+    "solar_generation_kwh": 19283.7862,
+    "solar_savings_bgn": 1712.3808,
+    "cost_bgn": 13600.1438,
+    "solar_households": 4,
+    "average_grid_kwh_solar_household": 2670.813,
+    "average_grid_kwh_non_solar_household": 3109.1993,
+    "peak": {
+      "timestamp": "2025-01-04T21:00:00",
+      "grid_consumption_kwh": 16.3723,
+      "consumption_kwh": 16.3723,
+      "cost_bgn": 4.0929
+    },
+    "peak_month": {
+      "month": 1,
+      "month_name_bg": "януари",
+      "grid_consumption_kwh": 6013.2546
+    },
+    "tariffs": {
+      "day": {
+        "records": 116800,
+        "grid_consumption_kwh": 45355.6585,
+        "cost_bgn": 11338.9197
+      },
+      "night": {
+        "records": 58400,
+        "grid_consumption_kwh": 15074.7822,
+        "cost_bgn": 2261.2241
+      }
+    },
+    "task_seconds": 0.339
+  },
+  {
+    "region": "Югоизточен",
+    "records": 175200,
+    "households": 20,
+    "consumption_kwh": 65359.106,
+    "grid_consumption_kwh": 59439.2791,
+    "grid_kwh_per_household": 2971.964,
+    "solar_generation_kwh": 18646.1699,
+    "solar_savings_bgn": 1479.9567,
+    "cost_bgn": 13392.6422,
+    "solar_households": 4,
+    "average_grid_kwh_solar_household": 2126.3032,
+    "average_grid_kwh_non_solar_household": 3183.3792,
+    "peak": {
+      "timestamp": "2025-01-18T21:00:00",
+      "grid_consumption_kwh": 16.5614,
+      "consumption_kwh": 16.5614,
+      "cost_bgn": 4.1403
+    },
+    "peak_month": {
+      "month": 1,
+      "month_name_bg": "януари",
+      "grid_consumption_kwh": 6085.541
+    },
+    "tariffs": {
+      "day": {
+        "records": 116800,
+        "grid_consumption_kwh": 44767.5805,
+        "cost_bgn": 11191.892
+      },
+      "night": {
+        "records": 58400,
+        "grid_consumption_kwh": 14671.6986,
+        "cost_bgn": 2200.7502
+      }
+    },
+    "task_seconds": 0.451
+  },
+  {
+    "region": "Северен централен",
+    "records": 175200,
+    "households": 20,
+    "consumption_kwh": 61788.0438,
+    "grid_consumption_kwh": 58211.9261,
+    "grid_kwh_per_household": 2910.5963,
+    "solar_generation_kwh": 6935.8936,
+    "solar_savings_bgn": 894.0294,
+    "cost_bgn": 13166.5153,
+    "solar_households": 2,
+    "average_grid_kwh_solar_household": 2868.044,
+    "average_grid_kwh_non_solar_household": 2915.3243,
+    "peak": {
+      "timestamp": "2025-01-05T21:00:00",
+      "grid_consumption_kwh": 15.147,
+      "consumption_kwh": 15.147,
+      "cost_bgn": 3.7867
+    },
+    "peak_month": {
+      "month": 1,
+      "month_name_bg": "януари",
+      "grid_consumption_kwh": 5804.4011
+    },
+    "tariffs": {
+      "day": {
+        "records": 116800,
+        "grid_consumption_kwh": 44347.108,
+        "cost_bgn": 11086.7838
+      },
+      "night": {
+        "records": 58400,
+        "grid_consumption_kwh": 13864.8181,
+        "cost_bgn": 2079.7315
+      }
+    },
+    "task_seconds": 0.443
+  }
+]

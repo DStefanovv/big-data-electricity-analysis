@@ -1,0 +1,122 @@
+[
+  {
+    "month": 1,
+    "month_name_bg": "януари",
+    "consumption_kwh": 40452.8591,
+    "grid_consumption_kwh": 37415.8327,
+    "solar_generation_kwh": 4704.5681,
+    "cost_bgn": 8467.0311,
+    "solar_savings_bgn": 759.2566,
+    "average_temperature_c": 2.0626
+  },
+  {
+    "month": 2,
+    "month_name_bg": "февруари",
+    "consumption_kwh": 35346.5515,
+    "grid_consumption_kwh": 32648.9191,
+    "solar_generation_kwh": 4245.2907,
+    "cost_bgn": 7388.8505,
+    "solar_savings_bgn": 674.4081,
+    "average_temperature_c": 4.0305
+  },
+  {
+    "month": 3,
+    "month_name_bg": "март",
+    "consumption_kwh": 36229.87,
+    "grid_consumption_kwh": 32738.1002,
+    "solar_generation_kwh": 9875.8398,
+    "cost_bgn": 7392.0233,
+    "solar_savings_bgn": 872.9424,
+    "average_temperature_c": 8.0907
+  },
+  {
+    "month": 4,
+    "month_name_bg": "април",
+    "consumption_kwh": 31431.1956,
+    "grid_consumption_kwh": 28312.4051,
+    "solar_generation_kwh": 9743.0391,
+    "cost_bgn": 6321.3991,
+    "solar_savings_bgn": 779.6976,
+    "average_temperature_c": 13.0601
+  },
+  {
+    "month": 5,
+    "month_name_bg": "май",
+    "consumption_kwh": 31133.0482,
+    "grid_consumption_kwh": 27923.7524,
+    "solar_generation_kwh": 10049.6436,
+    "cost_bgn": 6263.0722,
+    "solar_savings_bgn": 802.3239,
+    "average_temperature_c": 18.0414
+  },
+  {
+    "month": 6,
+    "month_name_bg": "юни",
+    "consumption_kwh": 30181.5129,
+    "grid_consumption_kwh": 26888.0375,
+    "solar_generation_kwh": 13460.6555,
+    "cost_bgn": 6035.7305,
+    "solar_savings_bgn": 823.3689,
+    "average_temperature_c": 22.0548
+  },
+  {
+    "month": 7,
+    "month_name_bg": "юли",
+    "consumption_kwh": 31808.034,
+    "grid_consumption_kwh": 28292.5957,
+    "solar_generation_kwh": 13905.0946,
+    "cost_bgn": 6364.2942,
+    "solar_savings_bgn": 878.8596,
+    "average_temperature_c": 25.0681
+  },
+  {
+    "month": 8,
+    "month_name_bg": "август",
+    "consumption_kwh": 32175.8736,
+    "grid_consumption_kwh": 28592.1106,
+    "solar_generation_kwh": 13892.8969,
+    "cost_bgn": 6435.8667,
+    "solar_savings_bgn": 895.9408,
+    "average_temperature_c": 25.0734
+  },
+  {
+    "month": 9,
+    "month_name_bg": "септември",
+    "consumption_kwh": 29928.4767,
+    "grid_consumption_kwh": 26968.307,
+    "solar_generation_kwh": 7789.9668,
+    "cost_bgn": 6055.8154,
+    "solar_savings_bgn": 740.0424,
+    "average_temperature_c": 20.0842
+  },
+  {
+    "month": 10,
+    "month_name_bg": "октомври",
+    "consumption_kwh": 31933.9218,
+    "grid_consumption_kwh": 28866.3172,
+    "solar_generation_kwh": 7975.0916,
+    "cost_bgn": 6452.5654,
+    "solar_savings_bgn": 766.9011,
+    "average_temperature_c": 14.0649
+  },
+  {
+    "month": 11,
+    "month_name_bg": "ноември",
+    "consumption_kwh": 35150.1725,
+    "grid_consumption_kwh": 31897.3316,
+    "solar_generation_kwh": 7782.8775,
+    "cost_bgn": 7204.0977,
+    "solar_savings_bgn": 813.2102,
+    "average_temperature_c": 8.0384
+  },
+  {
+    "month": 12,
+    "month_name_bg": "декември",
+    "consumption_kwh": 39691.2681,
+    "grid_consumption_kwh": 36678.2597,
+    "solar_generation_kwh": 4688.7086,
+    "cost_bgn": 8300.5077,
+    "solar_savings_bgn": 753.2521,
+    "average_temperature_c": 3.0652
+  }
+]

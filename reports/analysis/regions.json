@@ -1,0 +1,62 @@
+[
+  {
+    "region": "Югозападен",
+    "households": 20,
+    "consumption_kwh": 64643.506,
+    "grid_consumption_kwh": 64643.506,
+    "solar_generation_kwh": 0.0,
+    "cost_bgn": 14712.0754,
+    "solar_savings_bgn": 0.0,
+    "grid_kwh_per_household": 3232.1753
+  },
+  {
+    "region": "Североизточен",
+    "households": 20,
+    "consumption_kwh": 73771.2148,
+    "grid_consumption_kwh": 63123.9775,
+    "solar_generation_kwh": 28018.1119,
+    "cost_bgn": 14105.1051,
+    "solar_savings_bgn": 2661.8093,
+    "grid_kwh_per_household": 3156.1989
+  },
+  {
+    "region": "Северозападен",
+    "households": 20,
+    "consumption_kwh": 72620.9495,
+    "grid_consumption_kwh": 61372.8394,
+    "solar_generation_kwh": 35229.7112,
+    "cost_bgn": 13704.772,
+    "solar_savings_bgn": 2812.0275,
+    "grid_kwh_per_household": 3068.642
+  },
+  {
+    "region": "Южен централен",
+    "households": 20,
+    "consumption_kwh": 67279.9639,
+    "grid_consumption_kwh": 60430.4407,
+    "solar_generation_kwh": 19283.7862,
+    "cost_bgn": 13600.1438,
+    "solar_savings_bgn": 1712.3808,
+    "grid_kwh_per_household": 3021.522
+  },
+  {
+    "region": "Югоизточен",
+    "households": 20,
+    "consumption_kwh": 65359.106,
+    "grid_consumption_kwh": 59439.2791,
+    "solar_generation_kwh": 18646.1699,
+    "cost_bgn": 13392.6422,
+    "solar_savings_bgn": 1479.9567,
+    "grid_kwh_per_household": 2971.964
+  },
+  {
+    "region": "Северен централен",
+    "households": 20,
+    "consumption_kwh": 61788.0438,
+    "grid_consumption_kwh": 58211.9261,
+    "solar_generation_kwh": 6935.8936,
+    "cost_bgn": 13166.5153,
+    "solar_savings_bgn": 894.0294,
+    "grid_kwh_per_household": 2910.5963
+  }
+]

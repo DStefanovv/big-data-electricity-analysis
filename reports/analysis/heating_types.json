@@ -1,0 +1,30 @@
+[
+  {
+    "heating_type": "electric",
+    "households": 48,
+    "grid_consumption_kwh": 173249.8002,
+    "grid_kwh_per_household": 3609.3708,
+    "cost_bgn": 38904.0543
+  },
+  {
+    "heating_type": "gas",
+    "households": 24,
+    "grid_consumption_kwh": 69042.3953,
+    "grid_kwh_per_household": 2876.7665,
+    "cost_bgn": 15626.7448
+  },
+  {
+    "heating_type": "district",
+    "households": 30,
+    "grid_consumption_kwh": 78089.158,
+    "grid_kwh_per_household": 2602.9719,
+    "cost_bgn": 17591.9242
+  },
+  {
+    "heating_type": "other",
+    "households": 18,
+    "grid_consumption_kwh": 46840.6153,
+    "grid_kwh_per_household": 2602.2564,
+    "cost_bgn": 10558.5305
+  }
+]

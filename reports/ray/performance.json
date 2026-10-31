@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "engine": "Ray",
+  "tasks": 6,
+  "configured_cpus": 4,
+  "available_cpus": 4,
+  "records": 1051200,
+  "timings_seconds": {
+    "ray_startup": 8.456,
+    "parallel_execution": 1.704,
+    "estimated_sequential_tasks": 2.456,
+    "total": 10.503
+  },
+  "parallel_speedup_estimate": 1.441,
+  "task_timings": {
+    "Югозападен": 0.337,
+    "Североизточен": 0.443,
+    "Северозападен": 0.443,
+    "Южен централен": 0.339,
+    "Югоизточен": 0.451,
+    "Северен централен": 0.443
+  },
+  "validation_against_pyspark": {
+    "records": true,
+    "consumption": true,
+    "grid_consumption": true,
+    "solar_generation": true,
+    "cost": true,
+    "solar_savings": true
+  },
+  "versions": {
+    "ray": "2.59.0",
+    "pyarrow": "26.0.0",
+    "pandas": "2.3.3"
+  }
+}

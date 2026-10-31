@@ -1,0 +1,1178 @@
+[
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 0,
+    "average_grid_consumption_kwh": 0.214,
+    "average_consumption_kwh": 0.214
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 1,
+    "average_grid_consumption_kwh": 0.2145,
+    "average_consumption_kwh": 0.2145
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 2,
+    "average_grid_consumption_kwh": 0.2143,
+    "average_consumption_kwh": 0.2143
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 3,
+    "average_grid_consumption_kwh": 0.2141,
+    "average_consumption_kwh": 0.2141
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 4,
+    "average_grid_consumption_kwh": 0.2133,
+    "average_consumption_kwh": 0.2133
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 5,
+    "average_grid_consumption_kwh": 0.212,
+    "average_consumption_kwh": 0.212
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 6,
+    "average_grid_consumption_kwh": 0.5178,
+    "average_consumption_kwh": 0.5178
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 7,
+    "average_grid_consumption_kwh": 0.5117,
+    "average_consumption_kwh": 0.5117
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 8,
+    "average_grid_consumption_kwh": 0.4376,
+    "average_consumption_kwh": 0.51
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 9,
+    "average_grid_consumption_kwh": 0.2322,
+    "average_consumption_kwh": 0.299
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 10,
+    "average_grid_consumption_kwh": 0.2286,
+    "average_consumption_kwh": 0.297
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 11,
+    "average_grid_consumption_kwh": 0.2265,
+    "average_consumption_kwh": 0.2952
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 12,
+    "average_grid_consumption_kwh": 0.2256,
+    "average_consumption_kwh": 0.2955
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 13,
+    "average_grid_consumption_kwh": 0.2253,
+    "average_consumption_kwh": 0.2949
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 14,
+    "average_grid_consumption_kwh": 0.2266,
+    "average_consumption_kwh": 0.2964
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 15,
+    "average_grid_consumption_kwh": 0.2257,
+    "average_consumption_kwh": 0.2951
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 16,
+    "average_grid_consumption_kwh": 0.2267,
+    "average_consumption_kwh": 0.2951
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 17,
+    "average_grid_consumption_kwh": 0.4794,
+    "average_consumption_kwh": 0.5916
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 18,
+    "average_grid_consumption_kwh": 0.5216,
+    "average_consumption_kwh": 0.5963
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 19,
+    "average_grid_consumption_kwh": 0.5963,
+    "average_consumption_kwh": 0.5963
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 20,
+    "average_grid_consumption_kwh": 0.6019,
+    "average_consumption_kwh": 0.6019
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 21,
+    "average_grid_consumption_kwh": 0.607,
+    "average_consumption_kwh": 0.607
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 22,
+    "average_grid_consumption_kwh": 0.326,
+    "average_consumption_kwh": 0.326
+  },
+  {
+    "day_of_week": 0,
+    "day_name_bg": "понеделник",
+    "hour": 23,
+    "average_grid_consumption_kwh": 0.3283,
+    "average_consumption_kwh": 0.3283
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 0,
+    "average_grid_consumption_kwh": 0.2133,
+    "average_consumption_kwh": 0.2133
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 1,
+    "average_grid_consumption_kwh": 0.2142,
+    "average_consumption_kwh": 0.2142
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 2,
+    "average_grid_consumption_kwh": 0.2144,
+    "average_consumption_kwh": 0.2144
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 3,
+    "average_grid_consumption_kwh": 0.2142,
+    "average_consumption_kwh": 0.2142
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 4,
+    "average_grid_consumption_kwh": 0.2129,
+    "average_consumption_kwh": 0.2129
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 5,
+    "average_grid_consumption_kwh": 0.2115,
+    "average_consumption_kwh": 0.2115
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 6,
+    "average_grid_consumption_kwh": 0.5155,
+    "average_consumption_kwh": 0.5155
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 7,
+    "average_grid_consumption_kwh": 0.5121,
+    "average_consumption_kwh": 0.5121
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 8,
+    "average_grid_consumption_kwh": 0.4345,
+    "average_consumption_kwh": 0.5076
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 9,
+    "average_grid_consumption_kwh": 0.233,
+    "average_consumption_kwh": 0.2991
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 10,
+    "average_grid_consumption_kwh": 0.2286,
+    "average_consumption_kwh": 0.2975
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 11,
+    "average_grid_consumption_kwh": 0.2261,
+    "average_consumption_kwh": 0.2954
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 12,
+    "average_grid_consumption_kwh": 0.2256,
+    "average_consumption_kwh": 0.2947
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 13,
+    "average_grid_consumption_kwh": 0.2241,
+    "average_consumption_kwh": 0.2934
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 14,
+    "average_grid_consumption_kwh": 0.2245,
+    "average_consumption_kwh": 0.2937
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 15,
+    "average_grid_consumption_kwh": 0.2251,
+    "average_consumption_kwh": 0.2938
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 16,
+    "average_grid_consumption_kwh": 0.2269,
+    "average_consumption_kwh": 0.2956
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 17,
+    "average_grid_consumption_kwh": 0.4814,
+    "average_consumption_kwh": 0.592
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 18,
+    "average_grid_consumption_kwh": 0.5169,
+    "average_consumption_kwh": 0.5932
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 19,
+    "average_grid_consumption_kwh": 0.5974,
+    "average_consumption_kwh": 0.5974
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 20,
+    "average_grid_consumption_kwh": 0.6015,
+    "average_consumption_kwh": 0.6015
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 21,
+    "average_grid_consumption_kwh": 0.6068,
+    "average_consumption_kwh": 0.6068
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 22,
+    "average_grid_consumption_kwh": 0.325,
+    "average_consumption_kwh": 0.325
+  },
+  {
+    "day_of_week": 1,
+    "day_name_bg": "вторник",
+    "hour": 23,
+    "average_grid_consumption_kwh": 0.3282,
+    "average_consumption_kwh": 0.3282
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 0,
+    "average_grid_consumption_kwh": 0.2135,
+    "average_consumption_kwh": 0.2135
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 1,
+    "average_grid_consumption_kwh": 0.2145,
+    "average_consumption_kwh": 0.2145
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 2,
+    "average_grid_consumption_kwh": 0.2158,
+    "average_consumption_kwh": 0.2158
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 3,
+    "average_grid_consumption_kwh": 0.2155,
+    "average_consumption_kwh": 0.2155
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 4,
+    "average_grid_consumption_kwh": 0.215,
+    "average_consumption_kwh": 0.215
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 5,
+    "average_grid_consumption_kwh": 0.2129,
+    "average_consumption_kwh": 0.2129
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 6,
+    "average_grid_consumption_kwh": 0.5188,
+    "average_consumption_kwh": 0.5188
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 7,
+    "average_grid_consumption_kwh": 0.514,
+    "average_consumption_kwh": 0.514
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 8,
+    "average_grid_consumption_kwh": 0.4364,
+    "average_consumption_kwh": 0.5084
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 9,
+    "average_grid_consumption_kwh": 0.2336,
+    "average_consumption_kwh": 0.2997
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 10,
+    "average_grid_consumption_kwh": 0.2285,
+    "average_consumption_kwh": 0.2974
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 11,
+    "average_grid_consumption_kwh": 0.2272,
+    "average_consumption_kwh": 0.2961
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 12,
+    "average_grid_consumption_kwh": 0.2272,
+    "average_consumption_kwh": 0.297
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 13,
+    "average_grid_consumption_kwh": 0.2265,
+    "average_consumption_kwh": 0.2964
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 14,
+    "average_grid_consumption_kwh": 0.2262,
+    "average_consumption_kwh": 0.2958
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 15,
+    "average_grid_consumption_kwh": 0.2252,
+    "average_consumption_kwh": 0.2941
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 16,
+    "average_grid_consumption_kwh": 0.2274,
+    "average_consumption_kwh": 0.2957
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 17,
+    "average_grid_consumption_kwh": 0.4802,
+    "average_consumption_kwh": 0.5913
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 18,
+    "average_grid_consumption_kwh": 0.5204,
+    "average_consumption_kwh": 0.5955
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 19,
+    "average_grid_consumption_kwh": 0.5986,
+    "average_consumption_kwh": 0.5986
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 20,
+    "average_grid_consumption_kwh": 0.6057,
+    "average_consumption_kwh": 0.6057
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 21,
+    "average_grid_consumption_kwh": 0.6074,
+    "average_consumption_kwh": 0.6074
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 22,
+    "average_grid_consumption_kwh": 0.3277,
+    "average_consumption_kwh": 0.3277
+  },
+  {
+    "day_of_week": 2,
+    "day_name_bg": "сряда",
+    "hour": 23,
+    "average_grid_consumption_kwh": 0.3289,
+    "average_consumption_kwh": 0.3289
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 0,
+    "average_grid_consumption_kwh": 0.213,
+    "average_consumption_kwh": 0.213
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 1,
+    "average_grid_consumption_kwh": 0.2139,
+    "average_consumption_kwh": 0.2139
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 2,
+    "average_grid_consumption_kwh": 0.2144,
+    "average_consumption_kwh": 0.2144
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 3,
+    "average_grid_consumption_kwh": 0.2137,
+    "average_consumption_kwh": 0.2137
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 4,
+    "average_grid_consumption_kwh": 0.2129,
+    "average_consumption_kwh": 0.2129
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 5,
+    "average_grid_consumption_kwh": 0.2119,
+    "average_consumption_kwh": 0.2119
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 6,
+    "average_grid_consumption_kwh": 0.5174,
+    "average_consumption_kwh": 0.5174
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 7,
+    "average_grid_consumption_kwh": 0.51,
+    "average_consumption_kwh": 0.51
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 8,
+    "average_grid_consumption_kwh": 0.4344,
+    "average_consumption_kwh": 0.5067
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 9,
+    "average_grid_consumption_kwh": 0.2317,
+    "average_consumption_kwh": 0.2981
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 10,
+    "average_grid_consumption_kwh": 0.2286,
+    "average_consumption_kwh": 0.2967
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 11,
+    "average_grid_consumption_kwh": 0.2259,
+    "average_consumption_kwh": 0.2952
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 12,
+    "average_grid_consumption_kwh": 0.2259,
+    "average_consumption_kwh": 0.2956
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 13,
+    "average_grid_consumption_kwh": 0.2253,
+    "average_consumption_kwh": 0.2944
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 14,
+    "average_grid_consumption_kwh": 0.2257,
+    "average_consumption_kwh": 0.2951
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 15,
+    "average_grid_consumption_kwh": 0.2253,
+    "average_consumption_kwh": 0.2946
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 16,
+    "average_grid_consumption_kwh": 0.2265,
+    "average_consumption_kwh": 0.2946
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 17,
+    "average_grid_consumption_kwh": 0.4774,
+    "average_consumption_kwh": 0.5899
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 18,
+    "average_grid_consumption_kwh": 0.5167,
+    "average_consumption_kwh": 0.5931
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 19,
+    "average_grid_consumption_kwh": 0.5966,
+    "average_consumption_kwh": 0.5966
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 20,
+    "average_grid_consumption_kwh": 0.6005,
+    "average_consumption_kwh": 0.6005
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 21,
+    "average_grid_consumption_kwh": 0.6066,
+    "average_consumption_kwh": 0.6066
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 22,
+    "average_grid_consumption_kwh": 0.3244,
+    "average_consumption_kwh": 0.3244
+  },
+  {
+    "day_of_week": 3,
+    "day_name_bg": "четвъртък",
+    "hour": 23,
+    "average_grid_consumption_kwh": 0.3281,
+    "average_consumption_kwh": 0.3281
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 0,
+    "average_grid_consumption_kwh": 0.2128,
+    "average_consumption_kwh": 0.2128
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 1,
+    "average_grid_consumption_kwh": 0.2133,
+    "average_consumption_kwh": 0.2133
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 2,
+    "average_grid_consumption_kwh": 0.2147,
+    "average_consumption_kwh": 0.2147
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 3,
+    "average_grid_consumption_kwh": 0.2141,
+    "average_consumption_kwh": 0.2141
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 4,
+    "average_grid_consumption_kwh": 0.2129,
+    "average_consumption_kwh": 0.2129
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 5,
+    "average_grid_consumption_kwh": 0.212,
+    "average_consumption_kwh": 0.212
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 6,
+    "average_grid_consumption_kwh": 0.5148,
+    "average_consumption_kwh": 0.5148
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 7,
+    "average_grid_consumption_kwh": 0.5109,
+    "average_consumption_kwh": 0.5109
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 8,
+    "average_grid_consumption_kwh": 0.4367,
+    "average_consumption_kwh": 0.5087
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 9,
+    "average_grid_consumption_kwh": 0.2325,
+    "average_consumption_kwh": 0.2988
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 10,
+    "average_grid_consumption_kwh": 0.2293,
+    "average_consumption_kwh": 0.2976
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 11,
+    "average_grid_consumption_kwh": 0.2261,
+    "average_consumption_kwh": 0.295
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 12,
+    "average_grid_consumption_kwh": 0.225,
+    "average_consumption_kwh": 0.2949
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 13,
+    "average_grid_consumption_kwh": 0.2254,
+    "average_consumption_kwh": 0.2948
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 14,
+    "average_grid_consumption_kwh": 0.2252,
+    "average_consumption_kwh": 0.2947
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 15,
+    "average_grid_consumption_kwh": 0.2262,
+    "average_consumption_kwh": 0.2956
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 16,
+    "average_grid_consumption_kwh": 0.2254,
+    "average_consumption_kwh": 0.2937
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 17,
+    "average_grid_consumption_kwh": 0.4803,
+    "average_consumption_kwh": 0.5918
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 18,
+    "average_grid_consumption_kwh": 0.5198,
+    "average_consumption_kwh": 0.5954
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 19,
+    "average_grid_consumption_kwh": 0.5965,
+    "average_consumption_kwh": 0.5965
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 20,
+    "average_grid_consumption_kwh": 0.6018,
+    "average_consumption_kwh": 0.6018
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 21,
+    "average_grid_consumption_kwh": 0.6053,
+    "average_consumption_kwh": 0.6053
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 22,
+    "average_grid_consumption_kwh": 0.3245,
+    "average_consumption_kwh": 0.3245
+  },
+  {
+    "day_of_week": 4,
+    "day_name_bg": "петък",
+    "hour": 23,
+    "average_grid_consumption_kwh": 0.3274,
+    "average_consumption_kwh": 0.3274
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 0,
+    "average_grid_consumption_kwh": 0.2303,
+    "average_consumption_kwh": 0.2303
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 1,
+    "average_grid_consumption_kwh": 0.2314,
+    "average_consumption_kwh": 0.2314
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 2,
+    "average_grid_consumption_kwh": 0.2318,
+    "average_consumption_kwh": 0.2318
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 3,
+    "average_grid_consumption_kwh": 0.2308,
+    "average_consumption_kwh": 0.2308
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 4,
+    "average_grid_consumption_kwh": 0.2301,
+    "average_consumption_kwh": 0.2301
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 5,
+    "average_grid_consumption_kwh": 0.2287,
+    "average_consumption_kwh": 0.2287
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 6,
+    "average_grid_consumption_kwh": 0.5575,
+    "average_consumption_kwh": 0.5575
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 7,
+    "average_grid_consumption_kwh": 0.5531,
+    "average_consumption_kwh": 0.5531
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 8,
+    "average_grid_consumption_kwh": 0.4692,
+    "average_consumption_kwh": 0.5454
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 9,
+    "average_grid_consumption_kwh": 0.3343,
+    "average_consumption_kwh": 0.4233
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 10,
+    "average_grid_consumption_kwh": 0.3275,
+    "average_consumption_kwh": 0.4214
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 11,
+    "average_grid_consumption_kwh": 0.3238,
+    "average_consumption_kwh": 0.4198
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 12,
+    "average_grid_consumption_kwh": 0.3218,
+    "average_consumption_kwh": 0.4179
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 13,
+    "average_grid_consumption_kwh": 0.3198,
+    "average_consumption_kwh": 0.4167
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 14,
+    "average_grid_consumption_kwh": 0.3223,
+    "average_consumption_kwh": 0.4198
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 15,
+    "average_grid_consumption_kwh": 0.3204,
+    "average_consumption_kwh": 0.416
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 16,
+    "average_grid_consumption_kwh": 0.3245,
+    "average_consumption_kwh": 0.4181
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 17,
+    "average_grid_consumption_kwh": 0.521,
+    "average_consumption_kwh": 0.6403
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 18,
+    "average_grid_consumption_kwh": 0.5633,
+    "average_consumption_kwh": 0.6429
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 19,
+    "average_grid_consumption_kwh": 0.6454,
+    "average_consumption_kwh": 0.6454
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 20,
+    "average_grid_consumption_kwh": 0.6493,
+    "average_consumption_kwh": 0.6493
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 21,
+    "average_grid_consumption_kwh": 0.6528,
+    "average_consumption_kwh": 0.6528
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 22,
+    "average_grid_consumption_kwh": 0.3504,
+    "average_consumption_kwh": 0.3504
+  },
+  {
+    "day_of_week": 5,
+    "day_name_bg": "събота",
+    "hour": 23,
+    "average_grid_consumption_kwh": 0.3533,
+    "average_consumption_kwh": 0.3533
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 0,
+    "average_grid_consumption_kwh": 0.2301,
+    "average_consumption_kwh": 0.2301
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 1,
+    "average_grid_consumption_kwh": 0.2309,
+    "average_consumption_kwh": 0.2309
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 2,
+    "average_grid_consumption_kwh": 0.2316,
+    "average_consumption_kwh": 0.2316
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 3,
+    "average_grid_consumption_kwh": 0.2315,
+    "average_consumption_kwh": 0.2315
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 4,
+    "average_grid_consumption_kwh": 0.2298,
+    "average_consumption_kwh": 0.2298
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 5,
+    "average_grid_consumption_kwh": 0.2288,
+    "average_consumption_kwh": 0.2288
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 6,
+    "average_grid_consumption_kwh": 0.5586,
+    "average_consumption_kwh": 0.5586
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 7,
+    "average_grid_consumption_kwh": 0.5522,
+    "average_consumption_kwh": 0.5522
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 8,
+    "average_grid_consumption_kwh": 0.4743,
+    "average_consumption_kwh": 0.5498
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 9,
+    "average_grid_consumption_kwh": 0.3326,
+    "average_consumption_kwh": 0.4219
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 10,
+    "average_grid_consumption_kwh": 0.327,
+    "average_consumption_kwh": 0.4208
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 11,
+    "average_grid_consumption_kwh": 0.3225,
+    "average_consumption_kwh": 0.4187
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 12,
+    "average_grid_consumption_kwh": 0.3215,
+    "average_consumption_kwh": 0.4178
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 13,
+    "average_grid_consumption_kwh": 0.3219,
+    "average_consumption_kwh": 0.4194
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 14,
+    "average_grid_consumption_kwh": 0.3199,
+    "average_consumption_kwh": 0.4167
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 15,
+    "average_grid_consumption_kwh": 0.3203,
+    "average_consumption_kwh": 0.4163
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 16,
+    "average_grid_consumption_kwh": 0.3238,
+    "average_consumption_kwh": 0.4177
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 17,
+    "average_grid_consumption_kwh": 0.5206,
+    "average_consumption_kwh": 0.6379
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 18,
+    "average_grid_consumption_kwh": 0.5605,
+    "average_consumption_kwh": 0.6395
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 19,
+    "average_grid_consumption_kwh": 0.6436,
+    "average_consumption_kwh": 0.6436
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 20,
+    "average_grid_consumption_kwh": 0.6515,
+    "average_consumption_kwh": 0.6515
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 21,
+    "average_grid_consumption_kwh": 0.6548,
+    "average_consumption_kwh": 0.6548
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 22,
+    "average_grid_consumption_kwh": 0.3522,
+    "average_consumption_kwh": 0.3522
+  },
+  {
+    "day_of_week": 6,
+    "day_name_bg": "неделя",
+    "hour": 23,
+    "average_grid_consumption_kwh": 0.3536,
+    "average_consumption_kwh": 0.3536
+  }
+]

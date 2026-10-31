@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "input": "data/raw/electricity_consumption_2025.csv",
+  "output": "data/processed/electricity_consumption_2025",
+  "records": {
+    "initial": 1051200,
+    "unique_measurement_ids": 1051200,
+    "cleaned": 1051200,
+    "removed": 0,
+    "written": 1051200
+  },
+  "period": {
+    "start": "2025-01-01T00:00:00",
+    "end": "2025-12-31T23:00:00"
+  },
+  "partitions": {
+    "input": 5,
+    "output": 5
+  },
+  "size_mb": {
+    "csv": 172.83,
+    "parquet": 22.82,
+    "reduction_percent": 86.8
+  },
+  "timings_seconds": {
+    "preparation": 7.52,
+    "parquet_write": 0.8,
+    "verification": 0.24,
+    "total": 8.56
+  },
+  "derived_columns": [
+    "date",
+    "year",
+    "month",
+    "month_name_bg",
+    "day_of_week",
+    "day_name_bg",
+    "hour",
+    "season_bg",
+    "is_peak_hour",
+    "solar_used_kwh",
+    "energy_cost_without_solar_bgn",
+    "solar_savings_bgn"
+  ],
+  "versions": {
+    "dask": "2026.8.0",
+    "pandas": "2.3.3",
+    "pyarrow": "26.0.0"
+  }
+}

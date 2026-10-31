@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "engine": "PySpark",
+  "records": 1051200,
+  "spark_partitions": 5,
+  "timings_seconds": {
+    "spark_startup": 9.26,
+    "load_and_cache": 8.42,
+    "queries": {
+      "summary": 1.922,
+      "monthly": 1.04,
+      "hourly": 0.583,
+      "regions": 0.958,
+      "building_types": 0.65,
+      "heating_types": 0.337,
+      "tariffs": 0.444,
+      "solar_comparison": 0.631,
+      "day_hour_heatmap": 0.498
+    },
+    "total": 25.404
+  },
+  "versions": {
+    "pyspark": "4.2.1",
+    "java": "17.0.12"
+  },
+  "output_files": [
+    "building_types.json",
+    "day_hour_heatmap.json",
+    "heating_types.json",
+    "hourly.json",
+    "insights.json",
+    "monthly.json",
+    "performance.json",
+    "regions.json",
+    "solar_comparison.json",
+    "summary.json",
+    "tariffs.json"
+  ]
+}

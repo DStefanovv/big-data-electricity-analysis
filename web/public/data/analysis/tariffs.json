@@ -1,0 +1,16 @@
+[
+  {
+    "tariff_type": "day",
+    "records": 700800,
+    "grid_consumption_kwh": 275979.2562,
+    "cost_bgn": 68994.8486,
+    "price_per_kwh": 0.25
+  },
+  {
+    "tariff_type": "night",
+    "records": 350400,
+    "grid_consumption_kwh": 91242.7126,
+    "cost_bgn": 13686.4052,
+    "price_per_kwh": 0.15
+  }
+]

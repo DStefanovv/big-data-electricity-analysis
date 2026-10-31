@@ -1,0 +1,170 @@
+[
+  {
+    "hour": 0,
+    "average_consumption_kwh": 0.2181,
+    "average_grid_consumption_kwh": 0.2181,
+    "cost_bgn": 1433.152,
+    "average_temperature_c": 11.0633
+  },
+  {
+    "hour": 1,
+    "average_consumption_kwh": 0.2189,
+    "average_grid_consumption_kwh": 0.2189,
+    "cost_bgn": 1438.4977,
+    "average_temperature_c": 10.744
+  },
+  {
+    "hour": 2,
+    "average_consumption_kwh": 0.2196,
+    "average_grid_consumption_kwh": 0.2196,
+    "cost_bgn": 1442.6366,
+    "average_temperature_c": 10.5333
+  },
+  {
+    "hour": 3,
+    "average_consumption_kwh": 0.2191,
+    "average_grid_consumption_kwh": 0.2191,
+    "cost_bgn": 1439.4957,
+    "average_temperature_c": 10.7198
+  },
+  {
+    "hour": 4,
+    "average_consumption_kwh": 0.2181,
+    "average_grid_consumption_kwh": 0.2181,
+    "cost_bgn": 1433.027,
+    "average_temperature_c": 11.0397
+  },
+  {
+    "hour": 5,
+    "average_consumption_kwh": 0.2168,
+    "average_grid_consumption_kwh": 0.2168,
+    "cost_bgn": 1424.6057,
+    "average_temperature_c": 11.4856
+  },
+  {
+    "hour": 6,
+    "average_consumption_kwh": 0.5286,
+    "average_grid_consumption_kwh": 0.5286,
+    "cost_bgn": 4558.9311,
+    "average_temperature_c": 12.049
+  },
+  {
+    "hour": 7,
+    "average_consumption_kwh": 0.5234,
+    "average_grid_consumption_kwh": 0.5234,
+    "cost_bgn": 5731.0989,
+    "average_temperature_c": 12.8676
+  },
+  {
+    "hour": 8,
+    "average_consumption_kwh": 0.5195,
+    "average_grid_consumption_kwh": 0.4461,
+    "cost_bgn": 4885.296,
+    "average_temperature_c": 13.5765
+  },
+  {
+    "hour": 9,
+    "average_consumption_kwh": 0.3342,
+    "average_grid_consumption_kwh": 0.2613,
+    "cost_bgn": 2861.7135,
+    "average_temperature_c": 14.4243
+  },
+  {
+    "hour": 10,
+    "average_consumption_kwh": 0.3325,
+    "average_grid_consumption_kwh": 0.2568,
+    "cost_bgn": 2811.9573,
+    "average_temperature_c": 15.1258
+  },
+  {
+    "hour": 11,
+    "average_consumption_kwh": 0.3307,
+    "average_grid_consumption_kwh": 0.2539,
+    "cost_bgn": 2780.5737,
+    "average_temperature_c": 15.7713
+  },
+  {
+    "hour": 12,
+    "average_consumption_kwh": 0.3304,
+    "average_grid_consumption_kwh": 0.2532,
+    "cost_bgn": 2772.1204,
+    "average_temperature_c": 16.1206
+  },
+  {
+    "hour": 13,
+    "average_consumption_kwh": 0.3299,
+    "average_grid_consumption_kwh": 0.2525,
+    "cost_bgn": 2765.2579,
+    "average_temperature_c": 16.4946
+  },
+  {
+    "hour": 14,
+    "average_consumption_kwh": 0.3302,
+    "average_grid_consumption_kwh": 0.2528,
+    "cost_bgn": 2768.6938,
+    "average_temperature_c": 16.6315
+  },
+  {
+    "hour": 15,
+    "average_consumption_kwh": 0.3293,
+    "average_grid_consumption_kwh": 0.2525,
+    "cost_bgn": 2765.2364,
+    "average_temperature_c": 16.5526
+  },
+  {
+    "hour": 16,
+    "average_consumption_kwh": 0.33,
+    "average_grid_consumption_kwh": 0.2544,
+    "cost_bgn": 2785.3295,
+    "average_temperature_c": 16.2002
+  },
+  {
+    "hour": 17,
+    "average_consumption_kwh": 0.6049,
+    "average_grid_consumption_kwh": 0.4914,
+    "cost_bgn": 5381.174,
+    "average_temperature_c": 15.719
+  },
+  {
+    "hour": 18,
+    "average_consumption_kwh": 0.608,
+    "average_grid_consumption_kwh": 0.5313,
+    "cost_bgn": 5817.6824,
+    "average_temperature_c": 15.0817
+  },
+  {
+    "hour": 19,
+    "average_consumption_kwh": 0.6106,
+    "average_grid_consumption_kwh": 0.6106,
+    "cost_bgn": 6686.1558,
+    "average_temperature_c": 14.3844
+  },
+  {
+    "hour": 20,
+    "average_consumption_kwh": 0.616,
+    "average_grid_consumption_kwh": 0.616,
+    "cost_bgn": 6745.2329,
+    "average_temperature_c": 13.6669
+  },
+  {
+    "hour": 21,
+    "average_consumption_kwh": 0.6201,
+    "average_grid_consumption_kwh": 0.6201,
+    "cost_bgn": 6789.7174,
+    "average_temperature_c": 12.8748
+  },
+  {
+    "hour": 22,
+    "average_consumption_kwh": 0.3329,
+    "average_grid_consumption_kwh": 0.3329,
+    "cost_bgn": 2960.081,
+    "average_temperature_c": 12.0977
+  },
+  {
+    "hour": 23,
+    "average_consumption_kwh": 0.3354,
+    "average_grid_consumption_kwh": 0.3354,
+    "cost_bgn": 2203.5871,
+    "average_temperature_c": 11.5331
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "engine": "Faker",
+  "records": 1051200,
+  "households": 120,
+  "hours": 8760,
+  "elapsed_seconds": 12.64,
+  "version": "40.44.0",
+  "optimization": "NumPy/Pandas vectorization"
+}

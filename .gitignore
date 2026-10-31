@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated datasets are reproducible and can be too large for GitHub.
+data/raw/*.csv
+data/processed/
+
+# Local results kept only as recovery copies.
+reports/*_pre_optimization_backup/
+reports/*_optimized.json
